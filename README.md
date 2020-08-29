@@ -1,17 +1,18 @@
 # python_Programs
 In this repo just solving Basic python programs and uploading for reference. 
 
+Question and Solution will be on same name.
 
 Questions:
 
-    you can find the questions from Questions.txt
+    You can find the questions from Questions folder.
 
 
 Solutions:
     
-    Answers will be in solutions.py
+    Answers from Solutions folder.
 
-    
+
 Questions Short Topics:
 
     1. Write a program that prints the numbers from 1 to N.But, for multiples of three,  print “Fizz” instead of the number and 
@@ -21,6 +22,6 @@ Questions Short Topics:
     
     3.write a function that takes such an object as input and calculates the total sum paid by them together.
     
-    4.Calculating cricket scores
+    4.Batsman score calculator
     
     5.Counting String if tie means using lexicographically

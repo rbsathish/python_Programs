@@ -1,0 +1,3 @@
+Write a function that accepts a string S as input parameter and return a character which occurs 
+the most in the given string (S). If there is a tie, return the one which is lexicographically 
+(dictonary order) larger.
