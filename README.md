@@ -9,6 +9,6 @@ Questions:
 
 Solutions:
     
-    And answer from solutions.py
+    Answers will be in solutions.py
 
     
